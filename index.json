@@ -1,0 +1,137 @@
+{
+  "library": "solo-french-horn",
+  "displayName": "Solo French Horn",
+  "description": "Solo French horn samples — sustained tones (blowing, signal) + short articulations (attack, staccato). All recorded by PhonosUPF (CC0). Articulation-based samples at the instrument's natural pitch; rootNote set to C4 (MIDI 60) as default.",
+  "format": "opus-48k",
+  "sourceRepo": "https://freesound.org/people/PhonosUPF/",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/solo-french-horn-opus-48",
+  "branch": "main",
+  "fileCount": 10,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/solo-french-horn-opus-48/main/",
+  "files": [
+    {
+      "file": "horn_blowing.opus",
+      "name": "horn_blowing",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/solo-french-horn-opus-48/main/horn_blowing.opus",
+      "size": 17214,
+      "freesoundId": 490007,
+      "duration": 2.9,
+      "rootNote": 60,
+      "license": "CC0-1.0",
+      "source": "PhonosUPF solo french horn"
+    },
+    {
+      "file": "horn_blowing_2.opus",
+      "name": "horn_blowing_2",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/solo-french-horn-opus-48/main/horn_blowing_2.opus",
+      "size": 49536,
+      "freesoundId": 490010,
+      "duration": 9.1,
+      "rootNote": 60,
+      "license": "CC0-1.0",
+      "source": "PhonosUPF solo french horn"
+    },
+    {
+      "file": "horn_blowing_4.opus",
+      "name": "horn_blowing_4",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/solo-french-horn-opus-48/main/horn_blowing_4.opus",
+      "size": 52237,
+      "freesoundId": 490012,
+      "duration": 9.0,
+      "rootNote": 60,
+      "license": "CC0-1.0",
+      "source": "PhonosUPF solo french horn"
+    },
+    {
+      "file": "horn_blowing_5.opus",
+      "name": "horn_blowing_5",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/solo-french-horn-opus-48/main/horn_blowing_5.opus",
+      "size": 24279,
+      "freesoundId": 490016,
+      "duration": 4.3,
+      "rootNote": 60,
+      "license": "CC0-1.0",
+      "source": "PhonosUPF solo french horn"
+    },
+    {
+      "file": "horn_blowing_9.opus",
+      "name": "horn_blowing_9",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/solo-french-horn-opus-48/main/horn_blowing_9.opus",
+      "size": 30771,
+      "freesoundId": 490021,
+      "duration": 4.7,
+      "rootNote": 60,
+      "license": "CC0-1.0",
+      "source": "PhonosUPF solo french horn"
+    },
+    {
+      "file": "horn_signal.opus",
+      "name": "horn_signal",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/solo-french-horn-opus-48/main/horn_signal.opus",
+      "size": 23905,
+      "freesoundId": 489005,
+      "duration": 4.3,
+      "rootNote": 60,
+      "license": "CC0-1.0",
+      "source": "PhonosUPF solo french horn"
+    },
+    {
+      "file": "horn_signal_2.opus",
+      "name": "horn_signal_2",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/solo-french-horn-opus-48/main/horn_signal_2.opus",
+      "size": 25830,
+      "freesoundId": 490025,
+      "duration": 4.4,
+      "rootNote": 60,
+      "license": "CC0-1.0",
+      "source": "PhonosUPF solo french horn"
+    },
+    {
+      "file": "horn_attack.opus",
+      "name": "horn_attack",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/solo-french-horn-opus-48/main/horn_attack.opus",
+      "size": 19845,
+      "freesoundId": 489007,
+      "duration": 3.1,
+      "rootNote": 60,
+      "license": "CC0-1.0",
+      "source": "PhonosUPF solo french horn"
+    },
+    {
+      "file": "horn_attack_7.opus",
+      "name": "horn_attack_7",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/solo-french-horn-opus-48/main/horn_attack_7.opus",
+      "size": 5922,
+      "freesoundId": 490197,
+      "duration": 1.0,
+      "rootNote": 60,
+      "license": "CC0-1.0",
+      "source": "PhonosUPF solo french horn"
+    },
+    {
+      "file": "horn_staccato_3.opus",
+      "name": "horn_staccato_3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/solo-french-horn-opus-48/main/horn_staccato_3.opus",
+      "size": 21453,
+      "freesoundId": 490236,
+      "duration": 3.5,
+      "rootNote": 60,
+      "license": "CC0-1.0",
+      "source": "PhonosUPF solo french horn"
+    }
+  ],
+  "byNote": {
+    "60": [
+      "horn_blowing.opus",
+      "horn_blowing_2.opus",
+      "horn_blowing_4.opus",
+      "horn_blowing_5.opus",
+      "horn_blowing_9.opus",
+      "horn_signal.opus",
+      "horn_signal_2.opus",
+      "horn_attack.opus",
+      "horn_attack_7.opus",
+      "horn_staccato_3.opus"
+    ]
+  }
+}
